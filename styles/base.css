@@ -68,11 +68,14 @@ iframe {
 .col {
   flex-grow: 1;
   padding: 1rem;
+ 
 }
 
 .banner {
   min-height: 25vh;
-  padding: 5rem 1rem;
+  padding: 5rem 1rem; 
+  background-image:url('../Inkedwoman-wearing-make-up-and-black-contact-lens-3414766_LI.jpg')
+  background-position: center;
 }
   
 .profile-img{
