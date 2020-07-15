@@ -81,9 +81,9 @@ iframe {
     display: inline-block;
       margin:auto;
     padding: 3rem;
-    text-alinen: center
+    text-align: center
       color: red;
-    fount size: 3,5rem;
+    fount size: 3.5rem;
 
 .profile-img{
   max-height: 50vh;
